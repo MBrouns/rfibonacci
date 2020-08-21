@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 17 09:00:24 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-fb38-1a2a-0000263026f8 
+on database directory memory:/Users/matthijsbrouns/RStudioProjects/fibonacci/databaseName=metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@50bbae7a 
+Loaded from file:/Users/matthijsbrouns/spark/spark-2.4.3-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Users/matthijsbrouns/RStudioProjects/fibonacci
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
